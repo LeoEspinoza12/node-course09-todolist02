@@ -1,5 +1,4 @@
-- for this application we are going to need this module
-    
-    install cookie-parser 
+in this application, is the same as the first todo list project that i 
+have but this one has an added feature of setting cookie for every user 
+that will log in. 
 
-  at the app.js set a cookie in the app.use(cookie)
