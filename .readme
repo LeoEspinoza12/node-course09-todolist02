@@ -1,0 +1,5 @@
+- for this application we are going to need this module
+    
+    install cookie-parser 
+
+  at the app.js set a cookie in the app.use(cookie)
